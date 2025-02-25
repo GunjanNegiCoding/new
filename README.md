@@ -1,3 +1,3 @@
 # new
-Auther-Gayu
+Auther-Gayu(Apna college)
 
