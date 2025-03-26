@@ -1,3 +1,4 @@
 # new
-Auther-Gayu(Apna college)
+Auther-Gayu(Learning)
 
+This is my first git repo
